@@ -15,6 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nadya1809&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-#Jobsheet 01
+# Jobsheet 01
 
 Job sheet ini bertujuan untuk mengenalkan mahasiswa pada konsep dasar struktur data, termasuk tipe data tunggal dan majemuk, serta penerapannya dalam pemrograman menggunakan bahasa C. Melalui pengenalan variabel seperti array, struct, dan linked list, mahasiswa diharapkan memahami cara menyimpan dan mengelola data secara efisien. Dengan perangkat yang meliputi Personal Computer, Notepad++, dan DevC IDE, mahasiswa akan melakukan percobaan praktis dalam membuat program pertama menggunakan bahasa C. Selain itu, mahasiswa ditugaskan untuk menulis artikel singkat yang membahas topik-topik terkait seperti pointer, struct, array, linked list, double linked list, dan circular linked list, yang merupakan dasar-dasar penting dalam struktur data.
